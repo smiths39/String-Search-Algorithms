@@ -41,12 +41,12 @@ The following is a list of personalised list functions I have included upon my s
  * Returns a corrected binding of two values.
 
  * The following is used within this function:
- * 1. Maybe – provides a method of dealing with illegal values without terminating the program.
- * 2. Just – correct result of maybe.
- * 3. Nothing – incorrect result of maybe. 
+     1. Maybe – provides a method of dealing with illegal values without terminating the program.
+     2. Just – correct result of maybe.
+     3. Nothing – incorrect result of maybe. 
 
 12. mySizeList
-* Returns a list (within a list) with a size of length supplied in first argument.
+ * Returns a list (within a list) with a size of length supplied in first argument.
 
 13. myID
  * Returns identity of argument supplied.
